@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Open Sans", sans-serif;
-    background: -webkit-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
+    background: -webkit-linear-gradient(right, #141E30, #243B55, #141E30, #243B55);
 }
 
 main {
@@ -24,7 +24,7 @@ main {
 .card h3 {
     text-align: center;
     margin-bottom: 20px;
-    color: #fc00ff;
+    color: #243B55;
 }
 
 .form-group {
